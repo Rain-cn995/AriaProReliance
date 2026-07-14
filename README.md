@@ -1,6 +1,8 @@
-# PredReliance data collector
+# AriaProReliancereadme
 
-One-command analysis for a processed Aria eye-camera video.
+This project contains the scripts, dependencies, configurations, and data-output conventions required for AriaProReliance data collection and analysis.
+
+The current module provides one-command analysis for a processed Aria eye-camera video.
 
 The tool expects a video with the left and right eye views side by side. It writes blink events and pupil-diameter measurements to a folder on the Desktop.
 
