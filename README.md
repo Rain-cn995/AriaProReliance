@@ -1,4 +1,4 @@
-# AriaProReliancereadme
+# AriaProReliance
 
 This project contains the scripts, dependencies, configurations, and data-output conventions required for AriaProReliance data collection and analysis.
 
